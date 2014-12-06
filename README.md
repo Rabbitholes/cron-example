@@ -30,7 +30,7 @@ This code slice is intended to demonstrate using cron for cleaning up a director
 # Next Steps
 * This is a very custom solution with a minute interval. It should be altered to whatever frequency that is necessary. Additionally, in the link above you can view proper locations for hourly, daily, monthly.
 * Also, logrotate is a tool that should be used to ensure that the log file doesn't get to large in the event of appending to the log.
-*Lastly, this was done slapdash as a basic/common example for cron. Ideally some of the variables are seperated into a config file.
+* Lastly, this was done slapdash as a basic/common example for cron. Ideally some of the variables are seperated into a config file.
 
 # Advanced
 **placeholder for configuration version and logrotate or atleast a link to that branch.**
