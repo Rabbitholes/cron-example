@@ -1,0 +1,6 @@
+[Sat Dec  6 08:54:01 EST 2014] - Starting Cleanup
+[Sat Dec  6 08:54:01 EST 2014] - ...cleaning /home/rabbitholes/cron-example/dir1
+[Sat Dec  6 08:54:01 EST 2014] - ...ignore cleanup because there are only (0) files @
+[Sat Dec  6 08:54:01 EST 2014] - ...cleaning /home/rabbitholes/cron-example/dir2
+[Sat Dec  6 08:54:01 EST 2014] - ...ignore cleanup because there are only (0) files
+[Sat Dec  6 08:54:01 EST 2014] - Cleanup Complete
