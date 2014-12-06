@@ -5,9 +5,6 @@ basic cron cleanup script example for linux
 
 high-level information --> https://help.ubuntu.com/community/CronHowto
 
-(also logrotate instructions if you feel it is necessary)
-
-
 # Introduction
 1. **cron_example_builder.sh** - generates test directories and files
 2. **cleanup_script.sh** - example code for removing files from a directory
@@ -35,6 +32,8 @@ This code slice is intended to demonstrate using cron for cleaning up a director
 * This sotlution also only records the msot recent execution in the logs. Appending to the logs would improve insight. However, logrotate is a tool that should be used to ensure that file doesn't get to large.
 *Lastly, this was done slapdash is a basic common example for cron. Ideally some of the variables are seperated into a config file.
 
+# Advanced
+**placeholder for configuration version and logrotate or atleast a link to that branch.**
 
 Cheers, Matt
 > 
