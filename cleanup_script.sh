@@ -22,7 +22,7 @@ if [ -d "$DIR1" ]; then
         fi
 fi
 
-if [ -d "$DIR1" ]; then
+if [ -d "$DIR2" ]; then
         echo "[$(date)] - ...cleaning $DIR2"
         file_count=$(ls -1 $DIR2 | wc -l)
         if [ "$file_count" -ge "$FILE_LIMIT" ]; then
